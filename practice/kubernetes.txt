@@ -1,0 +1,82 @@
+kubernetes(k8's):
+Installation of kubernetes
+1.create a linux ec2 instance in linux
+2.create and attach IAM role to ec2 instanace.
+3.install kops on ec2
+4.install kubectl
+5.
+-----------------------------------------------------------------
+create ec2 instance of linux in aws console management.
+attach IAM role to ec2 instance
+install kops on ec2
+install kubectl
+create s3 bucket
+create private hosted zone in aws route53
+configure environment  variables
+create ssh key pair
+create a kubernets cluster definition
+to connect to the master
+----------------------------------------------------------------------
+create a ec2 instance of having linux in aws console management
+attach IAM role to the ec2 instance
+install kops on ec2
+install kubectl
+create s3 bucket
+create a private hosted zone in aws route 53
+configure environmental variables
+create ssh key pair
+create a kubernetes cluster definition
+to connect to the master.
+------------------------------------------------------------
+create a ec2 instance of having linux in aws console management
+attach IAM roles to the ec2 instance
+install kops on ec2
+install kubectl
+create s3 bucket
+create a private hosted zone by using route 53
+configure environmental variables
+create ssh key pair
+create a kubernetes cluster definition
+to connect to the master.
+---------------------------------------------------------------------
+In kubernetes we use different types of platforms based on using purpose
+developers point of view 
+>>> minikube
+on  production point of view 
+on premises
+-kubeadmin
+aws cloud 
+ -kops
+ -eks
+------------------------------------------------------------------------------
+create ec2 instance osf having linux in aws console management
+attach IAM 
+install kops on ec2
+install kubectl
+create s3 bucket
+create a private hosted zoneby using route53
+configure environmental variables
+create ssh key pair
+create a kubernetes cluster definition
+to coonect  to the master
+-------------------------------------------------------------------
+create an ec2 instance of having linux in aws console management
+attach IAM role to the ec2 instance
+install kops on ec2 
+install kubectl
+create s3 bucket
+create a private hosted zone in by using route53
+configure envrionmental variables
+create ssh key pair
+create a kubernetes cluster defintion
+to connect to the master.
+---------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+ 

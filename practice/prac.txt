@@ -1,0 +1,68 @@
+linux commands:
+--------------
+[to find the jdk version which version
+which runtime environment
+bit server]
+use command $ java -version
+-----------------------------
+#!/bin/bash
+
+DEBUG=true
+
+  if $DEBUG
+  then  CTVTZ
+     echo "debug mode is on"
+  else
+     echo "debug mode is off"
+  fi
+-----------------------------------------------
+in linux user is one who uses the system
+
+types of users in linux
+1.system user
+2.normal user
+3.system user
+4.network user
+5.sudo user
+----------------------------------------------------------------
+what is user management.
+user management means managing user.creating user,deleting user,modifying user.
+-------------------------------------------------------------------
+IMPORTANT POINTS RELATED TO USERS
+user name and user ID saved in /etc/passwd
+user's password are stored in /etc/shadow file in an encrypted form.
+---------------------------------------------------------------------
+user cannot read,write and execute 
+/etc/passwd==stores the  information like user name,uid,home directory and shell...etc
+/etc/shadow==stores users in encrypted form and other inforamtion
+/etc/group==stores group information like group name gid and information
+/etc/gshadow==stores group passwd in encrypted form.
+/etc/skell==stores users all environmental variables  files
+-------------------------------------------------------
+maven is used for building a tool.
+nagios is used for monitoring the application and server.
+tomcat is for server.
+git is an version controOLLING SYSTEM.
+KUBERNETES is a container orchestration tool.
+docker is a containerzied tool.
+---------------------------------------------------------------------------
+linux is an operating system based on linux kernel
+It is an open source and free of cost
+It can run on different hard-ware platforms
+-------------------------------------------------------------------
+linux-kernel is a low-level system software operates the hardware tools.
+kernel acts as bridge between  between softaware and hardware 
+kernel is the core of linux operating system.
+shell is a computer language by using commands and scripts we request the kernel to operate the hardware.
+shell is between the user and kernel
+kernel accepts the human readable language and converts into machine language.
+---------------------------------------------------------
+ we are talking abnout the shell 
+we already know shell is in between user and kernel
+In shell we execute commands in format.   
+c shell 
+korn shell
+bourne again shell
+z shellt
+friendly interactive shell
+
